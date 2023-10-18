@@ -1,0 +1,16 @@
+[server]
+headless = true
+port = $PORT
+enableCORS = false
+
+[theme]
+base = "light"
+
+[deprecation]
+showfileUploaderEncoding = false
+
+[general]
+email = "youremail@example.com"
+
+[requirements]
+file = "requirements.txt"
